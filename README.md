@@ -1,7 +1,13 @@
 # gen-ai
 
 
-# `uv` package manager
+# `ollama` command:
+
+```
+ollama run llama3.2
+```
+
+# Install `uv` package manager
 
 - Installing `uv`:
 
